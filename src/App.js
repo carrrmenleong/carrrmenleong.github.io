@@ -12,8 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Who needs automation! Manual deploys for the win!
-        </a>
+          From local source code to fully tested and deployed application in a single push        </a>
       </header>
     </div>
   );
