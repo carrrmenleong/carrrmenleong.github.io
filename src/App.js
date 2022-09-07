@@ -8,7 +8,7 @@ function App() {
         <img src={bomb} className="App-logo" alt="bomb" />
         <a
           className="App-link"
-          href="https://boris-badrov.github.io/techtonic22-docker/1.13-clean-up/"
+          href="https://www.redhat.com/en/topics/devops/what-is-ci-cd"
           target="_blank"
           rel="noopener noreferrer"
         >
