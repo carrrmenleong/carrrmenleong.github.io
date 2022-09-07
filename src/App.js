@@ -8,7 +8,7 @@ function App() {
         <img src={bomb} className="App-logo" alt="bomb" />
         <a
           className="App-link"
-          href="https://www.youtube.com/watch?v=oHg5SJYRHA0"
+          href="https://boris-badrov.github.io/techtonic22-docker/1.13-clean-up/"
           target="_blank"
           rel="noopener noreferrer"
         >
